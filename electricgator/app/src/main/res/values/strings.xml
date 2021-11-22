@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ElectricGator</string>
+    <string name="shr_button_next">PANIC</string>
+    <string name="shr_button_cancel">SOS</string>
+</resources>
